@@ -1,3 +1,12 @@
+# How to change hostname manually in Linux:
+     vi /etc/hosts 127.0.1.1 <your-old-hostname> replace it youe <new hostname>
+     vi /etc/hostname
+     sudo reboot
+
+
+
+
+
 # How to change hostname via command line in Linux:
 
 Step_1: Check the current hostname:
