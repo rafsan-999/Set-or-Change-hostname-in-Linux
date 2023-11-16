@@ -9,7 +9,7 @@
 Step_1: Check the current hostname:
 
     hostnamectl
-Step_2: Change the hostname Replace new-hostname with your desired hostname:
+Step_2: Change the hostname and Replace new-hostname with your desired name:
     
     sudo hostnamectl set-hostname rafsan
 Step_3: Verify the changes, You can check if the hostname has been updated by using hostnamectl again:
